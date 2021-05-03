@@ -1,6 +1,6 @@
-# miadoam
+# Readme-generator
   ## Description
-  miotsmoi
+  GIVEN a command-line application that accepts user input
   ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,11 +10,11 @@
 * [Tests](#tests)
 * [Questions]($questions)
   ## Installation
-  miogmsoipgma
+  THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
   ## Usage
   
   ## License
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  (https://choosealicense.com/licenses/mit)
   ## My Github
-    github:[mdfaoimas]()
+    github:[THEN I am taken to the corresponding section of the README]()
